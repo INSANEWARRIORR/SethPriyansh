@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SethPriyansh
 - 👀 I’m interested in game developing 
-- 🌱 I’m currently learning C++,DSA,C#
+- 🌱 I’m currently learning C++,DSA,C#,UNITY
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram @impriyanshseth
 
