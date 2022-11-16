@@ -2,7 +2,7 @@
 - 👀 I’m interested in game developing 
 - 🌱 I’m currently learning C++,DSA,C#,UNITY
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagram @impriyanshseth
+- 📫 How to reach me LINKEDIN @seth-priyansh
 
 <!---
 SethPriyansh/SethPriyansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
